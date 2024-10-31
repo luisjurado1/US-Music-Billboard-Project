@@ -69,13 +69,16 @@ h1 {
   margin-bottom: 5px;
 }
 
-.title, .artist, .additional-info {
+.title,
+.artist,
+.additional-info {
   margin: 8px 0;
 }
 
 .title span {
   font-weight: bold;
-  color: #04a7f3; /* Accent color for song titles */
+  color: #04a7f3;
+  /* Accent color for song titles */
 }
 
 .additional-info {
